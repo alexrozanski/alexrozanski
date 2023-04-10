@@ -8,6 +8,11 @@ These days I'm excited about Swift, SwiftUI and TypeScript, and am placing a foc
 
 I've worked for various companies both big<sup>[1](https://apple.com)</sup> <sup>[2](https://meta.com)</sup> and small<sup>[3](https://codecademy.com)</sup> <sup>[4](https://picnic.photos)</sup>, and I'm currently available for freelance projects 🙌
 
+**If you've ever used any of my open-sourced projects, tips are always appreciated! 🙏🏼**
+
+<a href="https://www.buymeacoffee.com/rozanski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Find me online:
 - 🏠 https://r.ozan.ski
 - 🎺 https://mas.to/@rozanski
 - 📸 https://instagram.com/alexrozanski
